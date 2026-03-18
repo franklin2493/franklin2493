@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Franklin
 
-<!--
-**franklin2493/franklin2493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Web Developer | Founder of Franklin’s Web Solutions  
 
-Here are some ideas to get you started:
+I build modern, responsive, and business-focused websites that help brands grow online.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 What I Do
+
+- 🌐 Business Websites  
+- 🛒 E-commerce Stores  
+- 🎨 Landing Pages  
+- 📱 Mobile-Responsive Design  
+- ⚡ Clean UI/UX Development  
+
+---
+
+## 🛠 Tech Stack
+
+- HTML5
+- CSS
+- JavaScript
+- Python
+- Javascript
+- C++
+- SQL
+- Responsive Design
+- Git & GitHub
+
+---
+
+## 📂 Featured Projects
+
+Check my repositories below to see my work.
+
+---
+
+## 📞 Contact Me
+
+📱 +234 8063298917  
+📩 Available for freelance projects  
+🌍 Franklin’s Web Solutions
